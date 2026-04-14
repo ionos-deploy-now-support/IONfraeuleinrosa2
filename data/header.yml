@@ -1,0 +1,13 @@
+style: "style2 orient-center fullscreen content-align-center image-position-right onload-image-fade-in onload-content-fade-right"
+content : |
+  <img src="logo_transparent_xs.png" />
+  <br/>
+  <br/>
+  Dinge, die deine Kindheit bunter und das Leben schöner machen. 
+  Von der Murmel bis zum Buch, vom Puzzle bis zur Kugelbahn.
+  <a href="#facts" class="smooth-scroll-middle">Natürlich für Kinder.<a/>
+button:
+  label : "Jetzt entdecken"
+  link : "#laden"
+image : "header_blur.jpg"
+

@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "cookie" . }}
+<section id="main" class="banner style2 content-align-left onload-content-fade-in	">
+  <div class="content">
+    <h1>{{ .Title }}</h1>
+
+    <p>{{ .Content }}</p>
+    
+    <a href="{{ .Sites.Default.Home.RelPermalink }}" class="button primary icon solid fa-arrow-left">Zurück</a>
+    
+    {{ partial "template/footer" . }}
+  </div>
+  <div class="image">
+    <img src="{{ .Params.Img }}" />
+  </div>
+</section>
+{{ end }}

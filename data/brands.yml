@@ -1,0 +1,155 @@
+style: "style2 small lightbox"
+title: Marken und Hersteller
+# content: |
+#   Unser Sortiment ist im ständigen Wandel und stets offen für Neues.
+pictures:
+
+  - title: "Brio"
+    content: "Die Holzeisenbahn für viele Generationen."
+    image: "gallery/brio.jpg"
+    thumb: "gallery/brio_preview.jpg"
+
+  - title: "ECO Brotbox"
+    content: "Eine Brotdose fürs Leben. Nachhaltig, fair produziert und garantiert ohne Schadstoffe."
+    image: "gallery/eco_brotboc.jpg"
+    thumb: "gallery/eco_brotbox_preview.jpg"
+
+  - title: "Design Letters"
+    content: "Hochwertige, langlebige und zeitlose Designprodukte mit maximalem Gebrauchswert und maximaler Produktlebensdauer."
+    image: "gallery/design_letters.jpg"
+    thumb: "gallery/design_letters_preview.jpg"
+
+  - title: "Done by Deer"
+    content: "Spielzeug und Interieur in nordischem Design."
+    image: "gallery/done_by_deer.jpg"
+    thumb: "gallery/done_by_deer_preview.jpg"
+
+  - title: "Erzi"
+    content: "Detail- und naturgetreue Miniatur-Lebensmittel aus Holz für den Kaufladen."
+    image: "gallery/erzi.jpg"
+    thumb: "gallery/erzi_preview.jpg"
+
+  - title: "fagus"
+    content: "Reines Holzspielzeug, frei von Schadstoffen und ohne Metallteile, gefertigt in einem integrativen Betrieb."
+    image: "gallery/fagus.jpg"
+    thumb: "gallery/fagus_preview.jpg"
+
+  - title: "goki"
+    content: "Verantwortungsvolles Spielzeug aus nachhaltiger, europäischer Forstwirtschaft."
+    image: "gallery/goki.jpg"
+    thumb: "gallery/goki_preview.jpg"
+
+  - title: "Grimms"
+    content: "Nachhaltiges Holzspielzeug in einzigartigen Formen und Farben."
+    image: "gallery/grimms.jpg"
+    thumb: "gallery/grimms_preview.jpg"
+
+  - title: "Herrnhuter"
+    content: "Nur echt mit 25 Zacken: der Ursprung aller Weihnachtssterne, hergestellt in traditioneller Handarbeit seit 1897."
+    image: "gallery/herrnhuter.jpg"
+    thumb: "gallery/herrnhuter_preview.jpg"
+
+  - title: "Jellycat"
+    content: "Flauschige Kuscheltiere, die stets mit einer kleinen Besonderheit daherkommen, welche sie von der Masse abheben."
+    image: "gallery/jellycat.jpg"
+    thumb: "gallery/jellycat_preview.jpg"
+
+  - title: "HABA"
+    content: "Holzspielsachen aus nachhaltiger Forstwirtschaft und umweltschonender Produktion."
+    image: "gallery/haba.jpg"
+    thumb: "gallery/haba_preview.jpg"
+
+  - title: "hörbert"
+    content: "Der nachhaltige MP3-Player für Kinder aus Holz, ganz ohne Abonnement und Lizenzzwang."
+    image: "gallery/horbert.jpg"
+    thumb: "gallery/horbert_preview.jpg"
+
+  - title: "Kapla"
+    content: "Der Klassiker für Jung und Alt. Holzplättchen  ausschließlich aus natürlichem und unbehandeltem Holz der Pinie aus nachhaltiger südfranzösischer Forstwirtschaft."
+    image: "gallery/kapla.jpg"
+    thumb: "gallery/kapla_preview.jpg"
+
+  - title: "Käthe Kruse"
+    content: "Puppentradition seit über 100 Jahren."
+    image: "gallery/kathe_kruse.jpg"
+    thumb: "gallery/kathe_kruse_preview.jpg"
+
+  - title: "Liewood"
+    content: "Dänisches Design fürs Kinderzimmer aus ökologischen Materialien."
+    image: "gallery/liewood.jpg"
+    thumb: "gallery/liewood_preview.jpg"
+
+  - title: "Lil´ Atelier"
+    content: "Dänisches Design hergestellt aus organischen Materialien mit Fokus auf Komfort und Qualität."
+    image: "gallery/lil_atelier.jpg"
+    thumb: "gallery/lil_atelier_preview.jpg"
+
+  - title: "Living Puppets"
+    content: "Menschliche und tierische Handpuppen mit hohem pädagogischen Spielwert."
+    image: "gallery/living_puppets.jpg"
+    thumb: "gallery/living_puppets_preview.jpg"
+
+  - title: "mp Denmark"
+    content: "Strumpfwaren, Leggings und Mützen aus ökologischen Garnen."
+    image: "gallery/mp.jpg"
+    thumb: "gallery/mp_preview.jpg"
+
+  - title: "müsli"
+    content: "Die nachhaltige Marke für ökologische Baby- und Kinderbekleidung steht für klassische Designs und naturbelassene Farben."
+    image: "gallery/musli.jpg"
+    thumb: "gallery/musli_preview.jpg"
+
+  - title: "nic"
+    content: "Ökologisches Holzspielzeug aus nachhaltigem europäischem Waldbau."
+    image: "gallery/nic.jpg"
+    thumb: "gallery/nic_preview.jpg"
+
+  - title: "Orangenkinder"
+    content: "Handgefertigte Puschen aus pflanzlich gegerbtem Leder."
+    image: "gallery/orangenkinder.jpg"
+    thumb: "gallery/orangenkinder_preview.jpg"
+
+  - title: "Ostheimer"
+    content: "Handbemaltes Holzspielzeug aus umweltverträglichen Materialien und nachhaltiger heimischer Forstwirtschaft."
+    image: "gallery/ostheimer.jpg"
+    thumb: "gallery/ostheimer_preview.jpg"
+
+  - title: "PlanToys"
+    content: "Vielfach prämiertes, nachhaltiges und ökologisches Holzspielzeug aus sogenanntem Rubberwood."
+    image: "gallery/plan_toys.jpg"
+    thumb: "gallery/plan_toys_preview.jpg"
+
+  - title: "Schildkröt"
+    content: "Puppen aus schadstofffreien Rohstoffen und nachhaltig hergestellten Materialien seit 1896."
+    image: "gallery/schildkrot.jpg"
+    thumb: "gallery/schildkrot_preview.jpg"
+
+  - title: "Sense Organics"
+    content: "Nachhaltige, fair produzierte und fair gehandelte Bio-Bekleidung für Babys und Kleinkinder."
+    image: "gallery/sense_organics.jpg"
+    thumb: "gallery/sense_organics_preview.jpg"
+
+  - title: "Selecta"
+    content: "Holzspielzeug aus nachhaltiger Forstwirtschaft und umweltfreundlichen Farben auf Wasserbasis."
+    image: "gallery/selecta.jpg"
+    thumb: "gallery/selecta_preview.jpg"
+
+  - title: "sigikid"
+    content: "Kuscheliges Spielzeug mit viel Liebe zum Detail."
+    image: "gallery/sigikid.jpg"
+    thumb: "gallery/sigikid_preview.jpg"
+
+  - title: "Steiff"
+    content: "Der Knopf im Ohr - vom Teddy bis zur Spieluhr."
+    image: "gallery/steiff.jpg"
+    thumb: "gallery/steiff_preview.jpg"
+
+  - title: "Sticky Lemon"
+    content: "Farbenfrohe Rucksäcke aus recycelten PET-Flaschen."
+    image: "gallery/sticky_lemon.jpg"
+    thumb: "gallery/sticky_lemon_preview.jpg"
+
+  - title: "Wooden Story"
+    content: "Ökologisches Holzspielzeug von den Farben bis hin zur Verpackung. Veredelt mit Bienenwachs und pflanzliche Ölen."
+    image: "gallery/wooden_story.jpg"
+    thumb: "gallery/wooden_story_preview.jpg"

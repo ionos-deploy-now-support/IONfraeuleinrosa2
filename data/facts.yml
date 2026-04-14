@@ -1,0 +1,22 @@
+id: facts
+content: |
+   <img src="slogan_black_xs.png" >
+style: "style1 medium"
+items:
+  - style: "solid style1 major fa-globe-europe"
+    content: "Unsere Produkte werden überwiegend in Deutschland und Europa gefertigt." 
+
+  - style: "solid style1 major fa-seedling"
+    content: "Nachhaltigkeit und Fairness von den Ressourcen bis zum fertigen Produkt ist unser Bestreben."
+
+  - style: "solid style1 major fa-hands-helping"
+    content: "Viele unserer Textilien entsprechend dem <i>Global Organic Textile Standard</i> (GOTS)."
+
+  - style: "solid style1 major fa-certificate"
+    content: "Gütesiegel wie <i>spiel gut</i>, <i>TÜV</i> und <i>GS</i> sind bei uns die Regel, nicht die Ausnahme."
+    
+  - style: "solid style1 major fa-book-open"
+    content: "Viele unserer Produkte sind inspiriert durch Waldorfpädagogik und reformpädagogische Ansätze, wie beispielsweise Montessori."
+    
+  - style: "solid style1 major fa-box-open"
+    content: "In unseren Regalen sind viele Artikel unverpackt. Anfassen, fühlen, stöbern und ausprobieren ist ausdrücklich erwünscht."

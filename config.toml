@@ -1,0 +1,45 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+title = "Fräulein Rosa - Natürlich für Kinder."
+theme = "hugo-story"
+defaultContentLanguage = "de"
+copyright = "Lisa Kettenbach"
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+# googleAnalytics = "your-google-analytics-id"
+## -----------------------------------------------
+## Site Parameters
+## ----------------------------------------------
+[params]
+description = "Dinge, die deine Kindheit bunter und das Leben schöner machen. Von der Murmel bis zum Buch, vom Puzzle bis zur Kugelbahn."
+logo = "logo_green.png"
+favicon = true
+images = ["logo_green.png"]
+
+[params.social]
+email = "lisa@fraeuleinrosa.de"
+instagram = "https://instagram.com/fraeuleinrosa.minden"
+
+[privacy]
+
+[privacy.disqus]
+disable = true
+
+[privacy.googleAnalytics]
+disable = true
+
+[privacy.instagram]
+disable = true
+
+[privacy.twitter]
+disable = true
+
+[privacy.vimeo]
+disable = true
+
+[privacy.youtube]
+disable = true

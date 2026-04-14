@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+	{{ partial "cookie" . }}
+	{{ partial "banner" site.Data.header }}
+	{{ partial "items-with-id" site.Data.shop }}
+	{{ partial "gallery" site.Data.brands }}
+	{{ partial "items" site.Data.products }}
+	{{ partial "spotlight" site.Data.about }}
+	{{ partial "items-with-id" site.Data.facts }}
+	<!--
+	{{ partial "items" site.Data.items }}
+	{{ partial "elements" . }}
+	{{ partial "elements_reference" . }}
+	-->
+	{{ partial "template/footer" . }}
+
+{{ end }}

@@ -1,0 +1,14 @@
+style: "style2 color4 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Fräulein Rosa"
+content: |
+  Unsere Kleinen sind uns das Größte. Diese Aussage würden wohl alle blind
+  unterschreiben, die selbst Kinder haben. Egal ob als Eltern, Großeltern oder
+  gar Urgroßeltern, als Tante und Onkel, oder einfach nur als Kinderfreund*in.
+  <br><br>
+  Wir bei Fräulein Rosa gehören auch dazu. Wir waren selbst gerne Kinder und
+  haben inzwischen auch selbst ein halbes Dutzend davon. Und genau das treibt
+  uns an, unsere Kindheit und unsere Kinder.
+button:
+  label: "Mehr über Fräulein Rosa"
+  link: "/ueber-fraeulein-rosa"
+image: "lisa.jpeg"

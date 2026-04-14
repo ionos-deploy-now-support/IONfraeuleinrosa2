@@ -1,0 +1,17 @@
+id: "laden"
+title: "Ladengeschäft"
+content: |
+  Seit November 2021 begrüßen wir euch in den Räumlichkeiten des ehemaligen
+  Spielwarenladens <i>Sternenkind</i>.
+style: "style3 small"
+items:
+  - style: "solid style1 fa-map-marked-alt"
+    content: |
+      Kampstr. 25<br/>
+      32423 Minden
+
+  - style: "solid style1 fa-clock"
+    content: Di-Fr 10-18 Uhr<br/>Sa 10-14 Uhr
+
+  - style: "solid style1 fa-phone"
+    content: 0571<br/>28575

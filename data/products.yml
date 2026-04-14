@@ -1,0 +1,26 @@
+title: Produkte
+style: "style3 small"
+items:
+  - name: "Holzspielzeug"
+    style: "solid style2 major fa-shapes"
+
+  - name: "Kinderbekleidung"
+    style: "solid style2 major fa-tshirt"
+
+  - name: "Babybedarf"
+    style: "solid style2 major fa-baby"
+
+  - name: "Kinderbücher"
+    style: "solid style2 major fa-book"
+
+  - name: "Spiele"
+    style: "solid style2 major fa-dice"
+
+  - name: "Bastelbedarf"
+    style: "solid style2 major fa-cut"
+
+  - name: "Puzzles"
+    style: "solid style2 major fa-puzzle-piece"
+
+  - name: "Geschenke"
+    style: "solid style2 major fa-gift"
